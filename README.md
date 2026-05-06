@@ -1,8 +1,6 @@
 # Alexander Gabrichidze
 
-CS student at UW-Madison, B.S. expected December 2026. I am looking for software engineering and backend engineering internships.
-
-I build backend-heavy web apps and the less glamorous pieces that make them hold up: data models, API contracts, auth, media handling, tests, deployment, logs, and the UI paths around them.
+CS student at UW-Madison, B.S. expected December 2026. I build backend-heavy web apps: APIs, databases, auth, media handling, tests, deployment, logs, and the UI paths that make the system usable.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gab)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
@@ -12,7 +10,7 @@ I build backend-heavy web apps and the less glamorous pieces that make them hold
 
 ### Currently
 
-- Working on MadDeals: auth, listings, media uploads, background jobs, and production ops.
+- Building MadDeals into a campus marketplace that feels boring in the right ways: reliable, searchable, and hard to break.
 - Daily-driving an Arch + Hyprland setup and keeping the config public.
 
 ### Stack
@@ -64,12 +62,3 @@ Hackathon-built airport timing assistant that helps travelers decide when to hea
 My dev environment is part of how I work: Arch Linux + Hyprland on Wayland, with configs for Neovim, tmux, Waybar, Rofi, Yazi, Alacritty, Mako, and shell tooling.
 
 [![Repo](https://img.shields.io/badge/Repo-alexgabrichidze%2Fdotfiles-1793D1?style=flat-square&logo=github&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
-
-### Technical Focus
-
-- Backend: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, FastAPI, REST APIs
-- Data: PostgreSQL, MySQL, Redis, Flyway, SQL indexing, query debugging
-- Cloud/infra: Docker, GitHub Actions, Linux, NGINX, Cloudflare R2, Amazon Web Services S3, DigitalOcean
-- Frontend: React, TypeScript, Vite, Tailwind CSS, TanStack Query, React Hook Form
-- Testing/quality: JUnit, Mockito, Spring Boot Test, MockMvc, Testcontainers, Vitest, CI checks
-- Systems interests: authentication, authorization, observability, background jobs, outbox patterns, developer tooling
