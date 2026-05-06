@@ -5,9 +5,9 @@ CS student at UW-Madison, B.S. expected December 2026. I am looking for software
 I build backend-heavy web apps and the less glamorous pieces that make them hold up: data models, API contracts, auth, media handling, tests, deployment, logs, and the UI paths around them.
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gab)
-[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
-[![MadDeals](https://img.shields.io/badge/MADDEALS-111827?style=for-the-badge&logo=springboot&logoColor=white)](https://maddeals.app)
-[![RecLive](https://img.shields.io/badge/RECLIVE-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://reclive.netlify.app)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
+[![MadDeals](https://img.shields.io/badge/MADDEALS-9f1d2a?style=for-the-badge&logo=springboot&logoColor=white)](https://maddeals.app)
+[![RecLive](https://img.shields.io/badge/RECLIVE-2563EB?style=for-the-badge&logo=python&logoColor=white)](https://reclive.netlify.app)
 [![Dotfiles](https://img.shields.io/badge/DOTFILES-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
 ### Currently
@@ -39,7 +39,7 @@ Marketplace for verified UW-Madison students to create, search, and manage listi
 - Designed an 8-module modular monolith across account, auth, listing, media, notification, abuse, outbox, and shared modules.
 - Built S3-compatible media workflows for listing and profile photos with staged upload slots, image validation, HEIC/HEIF support, cleanup jobs, and Cloudflare R2 storage.
 
-[![Live](https://img.shields.io/badge/Live-maddeals.app-111827?style=flat-square)](https://maddeals.app)
+[![Live](https://img.shields.io/badge/Live-maddeals.app-9f1d2a?style=flat-square)](https://maddeals.app)
 
 #### RecLive
 
