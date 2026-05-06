@@ -4,19 +4,19 @@ CS student at UW-Madison, B.S. expected December 2026. I am looking for software
 
 I build backend-heavy web apps and the less glamorous pieces that make them hold up: data models, API contracts, auth, media handling, tests, deployment, logs, and the UI paths around them.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-alex--gab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gab)
-[![Email](https://img.shields.io/badge/Email-gabrichteam%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
-[![MadDeals](https://img.shields.io/badge/MadDeals-Live-111827?style=for-the-badge&logo=springboot&logoColor=white)](https://maddeals.app)
-[![RecLive](https://img.shields.io/badge/RecLive-Live-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://reclive.netlify.app)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-Arch_%2B_Hyprland-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gab)
+[![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
+[![MadDeals](https://img.shields.io/badge/MADDEALS-111827?style=for-the-badge&logo=springboot&logoColor=white)](https://maddeals.app)
+[![RecLive](https://img.shields.io/badge/RECLIVE-2563EB?style=for-the-badge&logo=react&logoColor=white)](https://reclive.netlify.app)
+[![Dotfiles](https://img.shields.io/badge/DOTFILES-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
-## Currently
+### Currently
 
 - Building MadDeals, a UW-Madison marketplace for verified students.
 - Sharpening backend reliability around auth, media upload flows, background jobs, tests, and observability.
 - Keeping my daily Linux setup in public dotfiles: Arch Linux, Hyprland, Neovim, tmux, Waybar, Rofi, Yazi, and Alacritty.
 
-## Stack
+### Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
@@ -29,9 +29,9 @@ I build backend-heavy web apps and the less glamorous pieces that make them hold
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?style=flat&logo=amazons3&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=111111)
 
-## Featured Work
+### Featured Work
 
-### MadDeals
+#### MadDeals
 
 Marketplace for verified UW-Madison students to create, search, and manage listings.
 
@@ -41,7 +41,7 @@ Marketplace for verified UW-Madison students to create, search, and manage listi
 
 [![Live](https://img.shields.io/badge/Live-maddeals.app-111827?style=flat-square)](https://maddeals.app)
 
-### RecLive
+#### RecLive
 
 Gym crowd app for UW-Madison students, showing live occupancy, forecast windows, section-level breakdowns, and low-crowd alerts for Nick and Bakke.
 
@@ -52,7 +52,7 @@ Gym crowd app for UW-Madison students, showing live occupancy, forecast windows,
 
 [![Live](https://img.shields.io/badge/Live-reclive.netlify.app-2563EB?style=flat-square)](https://reclive.netlify.app)
 
-### Time My Gate
+#### Time My Gate
 
 Hackathon-built airport timing assistant that helps travelers decide when to head to security and their gate.
 
@@ -60,13 +60,13 @@ Hackathon-built airport timing assistant that helps travelers decide when to hea
 - Normalized messy airport timing inputs into a mobile-friendly leave-now recommendation.
 - Helped the team win Best Market Creation at Badger Build Fest 2025.
 
-## Dotfiles
+### Dotfiles
 
 My everyday dev setup is public: Arch Linux + Hyprland on Wayland, with configs for Neovim, tmux, Waybar, Rofi, Yazi, Alacritty, Mako, and related shell tooling.
 
 [![Repo](https://img.shields.io/badge/Repo-alexgabrichidze%2Fdotfiles-1793D1?style=flat-square&logo=github&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
-## Technical Focus
+### Technical Focus
 
 - Backend: Java, Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, FastAPI, REST APIs
 - Data: PostgreSQL, MySQL, Redis, Flyway, SQL indexing, query debugging
@@ -75,7 +75,7 @@ My everyday dev setup is public: Arch Linux + Hyprland on Wayland, with configs 
 - Testing/quality: JUnit, Mockito, Spring Boot Test, MockMvc, Testcontainers, Vitest, CI checks
 - Systems interests: authentication, authorization, observability, background jobs, outbox patterns, developer tooling
 
-## Contact
+### Contact
 
 - LinkedIn: [linkedin.com/in/alex-gab](https://www.linkedin.com/in/alex-gab)
 - Email: [gabrichteam@gmail.com](mailto:gabrichteam@gmail.com)
