@@ -30,7 +30,9 @@ I build backend-heavy web apps and the less glamorous pieces that make them hold
 
 ### Featured Work
 
-#### MadDeals [![Live](https://img.shields.io/badge/Live-maddeals.app-9f1d2a?style=flat-square)](https://maddeals.app)
+#### MadDeals
+
+[![Live](https://img.shields.io/badge/Live-maddeals.app-9f1d2a?style=flat-square)](https://maddeals.app)
 
 Campus marketplace for verified UW-Madison students, built around trusted accounts, searchable listings, and reliable photo uploads.
 
@@ -38,7 +40,9 @@ Campus marketplace for verified UW-Madison students, built around trusted accoun
 - Designed an 8-module modular monolith across account, auth, listing, media, notification, abuse, outbox, and shared modules.
 - Built S3-compatible media workflows for listing and profile photos with staged upload slots, image validation, HEIC/HEIF support, cleanup jobs, and Cloudflare R2 storage.
 
-#### RecLive [![Live](https://img.shields.io/badge/Live-reclive.netlify.app-007772?style=flat-square)](https://reclive.netlify.app)
+#### RecLive
+
+[![Live](https://img.shields.io/badge/Live-reclive.netlify.app-007772?style=flat-square)](https://reclive.netlify.app)
 
 Gym crowd app for UW-Madison students who want to know whether Nick or Bakke is worth walking to right now.
 
@@ -55,7 +59,9 @@ Hackathon-built airport timing assistant that helps travelers decide when to hea
 - Normalized messy airport timing inputs into a mobile-friendly leave-now recommendation.
 - Helped the team win Best Market Creation at Badger Build Fest 2025.
 
-### Dotfiles [![Repo](https://img.shields.io/badge/Repo-alexgabrichidze%2Fdotfiles-1793D1?style=flat-square&logo=github&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
+### Dotfiles
+
+[![Repo](https://img.shields.io/badge/Repo-alexgabrichidze%2Fdotfiles-1793D1?style=flat-square&logo=github&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
 My dev environment is part of how I work: Arch Linux + Hyprland on Wayland, with configs for Neovim, tmux, Waybar, Rofi, Yazi, Alacritty, Mako, and shell tooling.
 
