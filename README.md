@@ -4,11 +4,11 @@ CS student at UW-Madison, B.S. expected December 2026. I am looking for software
 
 I build backend-heavy web apps and the less glamorous pieces that make them hold up: data models, API contracts, auth, media handling, tests, deployment, logs, and the UI paths around them.
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gab)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
-[![MadDeals](https://img.shields.io/badge/MADDEALS-9f1d2a?style=for-the-badge&logo=springboot&logoColor=white)](https://maddeals.app)
-[![RecLive](https://img.shields.io/badge/RECLIVE-2563EB?style=for-the-badge&logo=python&logoColor=white)](https://reclive.netlify.app)
-[![Dotfiles](https://img.shields.io/badge/DOTFILES-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-gab)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
+[![MadDeals](https://img.shields.io/badge/MadDeals-9f1d2a?style=for-the-badge&logo=springboot&logoColor=white)](https://maddeals.app)
+[![RecLive](https://img.shields.io/badge/RecLive-007772?style=for-the-badge&logo=python&logoColor=white)](https://reclive.netlify.app)
+[![Dotfiles](https://img.shields.io/badge/Dotfiles-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
 ### Currently
 
@@ -49,7 +49,7 @@ Gym crowd app for UW-Madison students who want to know whether Nick or Bakke is 
 - Added DB-backed one-time web-push alerts for user-selected low-crowd thresholds.
 - Used by 70 daily active users.
 
-[![Live](https://img.shields.io/badge/Live-reclive.netlify.app-2563EB?style=flat-square)](https://reclive.netlify.app)
+[![Live](https://img.shields.io/badge/Live-reclive.netlify.app-007772?style=flat-square)](https://reclive.netlify.app)
 
 #### Time My Gate
 
