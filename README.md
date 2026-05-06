@@ -12,9 +12,8 @@ I build backend-heavy web apps and the less glamorous pieces that make them hold
 
 ### Currently
 
-- Building MadDeals, a UW-Madison marketplace for verified students.
-- Sharpening backend reliability around auth, media upload flows, background jobs, tests, and observability.
-- Keeping my daily Linux setup in public dotfiles: Arch Linux, Hyprland, Neovim, tmux, Waybar, Rofi, Yazi, and Alacritty.
+- Working on MadDeals: auth, listings, media uploads, background jobs, and production ops.
+- Daily-driving an Arch + Hyprland setup and keeping the config public.
 
 ### Stack
 
@@ -33,7 +32,7 @@ I build backend-heavy web apps and the less glamorous pieces that make them hold
 
 #### MadDeals
 
-Marketplace for verified UW-Madison students to create, search, and manage listings.
+Campus marketplace for verified UW-Madison students, built around trusted accounts, searchable listings, and reliable photo uploads.
 
 - Solo-built and deployed a Spring Boot + React app with PostgreSQL, Flyway, session auth, CSRF protection, media uploads, GitHub Actions automation, and observability.
 - Designed an 8-module modular monolith across account, auth, listing, media, notification, abuse, outbox, and shared modules.
@@ -43,7 +42,7 @@ Marketplace for verified UW-Madison students to create, search, and manage listi
 
 #### RecLive
 
-Gym crowd app for UW-Madison students, showing live occupancy, forecast windows, section-level breakdowns, and low-crowd alerts for Nick and Bakke.
+Gym crowd app for UW-Madison students who want to know whether Nick or Bakke is worth walking to right now.
 
 - Built the FastAPI backend and data pipeline with Python, MySQL, live occupancy ingestion, forecast-serving APIs, and facility-hours scraping.
 - Implemented backend aggregation that transforms raw gym location counts into section-level occupancy metrics.
@@ -62,7 +61,7 @@ Hackathon-built airport timing assistant that helps travelers decide when to hea
 
 ### Dotfiles
 
-My everyday dev setup is public: Arch Linux + Hyprland on Wayland, with configs for Neovim, tmux, Waybar, Rofi, Yazi, Alacritty, Mako, and related shell tooling.
+My dev environment is part of how I work: Arch Linux + Hyprland on Wayland, with configs for Neovim, tmux, Waybar, Rofi, Yazi, Alacritty, Mako, and shell tooling.
 
 [![Repo](https://img.shields.io/badge/Repo-alexgabrichidze%2Fdotfiles-1793D1?style=flat-square&logo=github&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
@@ -74,8 +73,3 @@ My everyday dev setup is public: Arch Linux + Hyprland on Wayland, with configs 
 - Frontend: React, TypeScript, Vite, Tailwind CSS, TanStack Query, React Hook Form
 - Testing/quality: JUnit, Mockito, Spring Boot Test, MockMvc, Testcontainers, Vitest, CI checks
 - Systems interests: authentication, authorization, observability, background jobs, outbox patterns, developer tooling
-
-### Contact
-
-- LinkedIn: [linkedin.com/in/alex-gab](https://www.linkedin.com/in/alex-gab)
-- Email: [gabrichteam@gmail.com](mailto:gabrichteam@gmail.com)
