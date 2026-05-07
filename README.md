@@ -6,7 +6,6 @@ CS student at UW-Madison, B.S. expected December 2026. I build backend-heavy web
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrichteam@gmail.com)
 [![MadDeals](https://img.shields.io/badge/MadDeals-9f1d2a?style=for-the-badge&logo=springboot&logoColor=white)](https://maddeals.app)
 [![RecLive](https://img.shields.io/badge/RecLive-007772?style=for-the-badge&logo=python&logoColor=white)](https://reclive.netlify.app)
-[![Dotfiles](https://img.shields.io/badge/Dotfiles-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
 ### Stack
 
@@ -46,13 +45,9 @@ Gym crowd app for UW-Madison students who want to know whether Nick or Bakke is 
 
 #### Time My Gate
 
-Hackathon-built airport timing assistant that helps travelers decide when to head to security and their gate.
+Hackathon airport timing assistant that turned flight-status data, checkpoint waits, walking-time heuristics, and traveler buffers into a leave-now recommendation. Helped the team win Best Market Creation at Badger Build Fest 2025.
 
-- Owned backend architecture and FastAPI recommendation services for combining flight-status data, checkpoint wait estimates, walking-time heuristics, and traveler buffers.
-- Normalized messy airport timing inputs into a mobile-friendly leave-now recommendation.
-- Helped the team win Best Market Creation at Badger Build Fest 2025.
-
-### Dotfiles
+### Developer Setup
 
 My dev environment is part of how I work: Arch Linux + Hyprland on Wayland, with configs for Neovim, tmux, Waybar, Rofi, Yazi, Alacritty, Mako, and shell tooling.
 
