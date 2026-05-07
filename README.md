@@ -48,7 +48,7 @@ Gym crowd app for UW-Madison students deciding whether Nick or Bakke is worth wa
 
 Hackathon airport timing assistant that turned flight-status data, checkpoint waits, walking-time heuristics, and traveler buffers into a leave-now recommendation. Helped the team win Best Market Creation at Badger Build Fest 2025.
 
-[![Event](https://img.shields.io/badge/Event-Badger_Build_Fest_2025-555555?style=flat)](https://techexplorationlab.wisc.edu/2025/11/17/badger-build-fest-2025-a-breakthrough-weekend-of-creativity-collaboration-and-venture-building/)
+[![Event](https://img.shields.io/badge/Event-Badger_Build_Fest_2025-6b7280?style=flat)](https://techexplorationlab.wisc.edu/2025/11/17/badger-build-fest-2025-a-breakthrough-weekend-of-creativity-collaboration-and-venture-building/)
 
 ### Developer Setup
 
