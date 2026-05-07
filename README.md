@@ -8,11 +8,6 @@ CS student at UW-Madison, B.S. expected December 2026. I build backend-heavy web
 [![RecLive](https://img.shields.io/badge/RecLive-007772?style=for-the-badge&logo=python&logoColor=white)](https://reclive.netlify.app)
 [![Dotfiles](https://img.shields.io/badge/Dotfiles-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://github.com/alexgabrichidze/dotfiles)
 
-### Currently
-
-- Building MadDeals into a campus marketplace that feels boring in the right ways: reliable, searchable, and hard to break.
-- Daily-driving an Arch + Hyprland setup and keeping the config public.
-
 ### Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
